@@ -146,6 +146,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [founder-toolkit](https://github.com/mooster/founder-toolkit) - 4 skills for startup founders: investor update writer (YC/a16z format), pitch deck reviewer (10-dimension VC scoring), SaaS metrics dashboard with benchmarks, and outreach lead scorer (ICP-first, tested on 300+ companies). Built by Mu Chen, CEO of Canopy Cloud ($120B+ AUM).
 - [overloop-cli](./plugins/overloop-cli)
 - [signals-cli](./plugins/signals-cli)
+- [jsoncrm](https://github.com/pauling-ai/jsoncrm) - Agent skill plugin for JSONCRM, a CRM stored as plain JSON files in git — search, scoring, and promote/demote with dry-run previews; pairs with a first-party MCP server (21 tools). Install: `/plugin install jsoncrm --marketplace pauling-ai/jsoncrm`
 
 ### Code Quality Testing
 - [autoresearch](./plugins/autoresearch)
